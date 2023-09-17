@@ -1,7 +1,7 @@
 # Elementor Forms MailNiaga v2
 
-![GitHub](https://img.shields.io/github/license/khairulimran-97/elementor-mailniaga-v2)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/khairulimran-97/elementor-mailniaga-v2)
+![Elementor Version](https://img.shields.io/badge/Elementor-3.16.3-brightgreen)
+![Elementor Pro Version](https://img.shields.io/badge/Elementor_Pro-3.16.1-brightgreen)
 ![WordPress Version](https://img.shields.io/badge/WordPress-6.3.1-brightgreen)
 
 Custom addon for Elementor Forms which adds new subscribers to MailNiaga v2 after form submission.
