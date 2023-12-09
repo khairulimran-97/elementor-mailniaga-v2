@@ -56,5 +56,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 This project is licensed under the [License Name Here] License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README template is based on the code for the Elementor Forms MailNiaga v2 WordPress plugin. For detailed information about the plugin's functionality, refer to the plugin code or visit the [plugin homepage](https://lamanweb.my/).
