@@ -13,7 +13,6 @@ Custom addon for Elementor Forms which adds new subscribers to MailNiaga v2 afte
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Screenshot](#screenshot)
-- [License](#license)
 
 ## Installation
 
