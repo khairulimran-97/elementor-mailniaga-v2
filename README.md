@@ -51,8 +51,5 @@ Contributions are welcome! If you would like to contribute to this project, plea
 3. Make your changes and test thoroughly.
 4. Create a pull request with a clear description of your changes.
 
-## License
-
-This project is licensed under the [License Name Here] License - see the [LICENSE](LICENSE) file for details.
 
 ---
